@@ -5,6 +5,6 @@ These players were controlled using accelerometers on FPGAs and was hosted onlin
 
 Later on after learning about evolutionary algorithms, I took the game and decided to try and make an evolutionary AI which could solve it.
 
-Most of the Unity necessary files have been excluded, only keeping the audio and pictures that I used, and the scripts I wrote.
-All code is in the [Game_Contents](./Game_Contents) folder, specifically the [Scripts](./Game_Contents/Assets/Scripts) folder.
-Evolutionary algorithm related code in [Evolutionary](./Game_Contents/Assets/Scripts/Evolutionary) folder.
+Most of the Unity necessary files have been excluded, only keeping the audio and pictures that I used, and the scripts I wrote.  
+All code is in the [Game_Contents](./Game_Contents) folder, specifically the [Scripts](./Game_Contents/Assets/Scripts) folder.  
+Evolutionary algorithm related code in [Evolutionary](./Game_Contents/Assets/Scripts/Evolutionary) folder.  
